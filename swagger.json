@@ -128,7 +128,7 @@
         }
       }
     },
-    "Pets": {
+    "Pets2": {
       "type": "array",
       "items": {
         "$ref": "#/definitions/Pet"
