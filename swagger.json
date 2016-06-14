@@ -1,8 +1,8 @@
 {
   "swagger": "2.0",
   "info": {
-    "version": "1.0-beta",
-    "title": "Swagger Petstore",
+    "version": "3.0",
+    "title": "Swagger Petstore2",
     "license": {
       "name": "MIT"
     }
