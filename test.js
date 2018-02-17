@@ -1,1 +1,1 @@
-var api = require('test')('skylightquickstart')
+var api = require('test')('randomtext')
